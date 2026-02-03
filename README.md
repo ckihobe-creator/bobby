@@ -7,7 +7,7 @@ The Akan Name Generator is a web application that calculates the day of the week
 Calvin 
 
 ## Live Link
-
+https://github.com/ckihobe-creator/bobby
 ## Technologies Used
 - HTML
 - CSS
@@ -15,7 +15,7 @@ Calvin
 - Git & GitHub
 
 ## Contact Information
-GitHub:   
+GitHub: https://github.com/ckihobe-creator/bobby  
 Email:ckihobe@gmail.com
 
 ## License
